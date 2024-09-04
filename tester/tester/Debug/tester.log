@@ -1,0 +1,3 @@
+﻿  lab5.cpp
+C:\Users\RoyChoy\Desktop\dsa555\lab5\lab5.cpp(4,20): warning C4018: '<': signed/unsigned mismatch
+  tester.vcxproj -> C:\Users\RoyChoy\Desktop\dsa555\tester\Debug\tester.exe

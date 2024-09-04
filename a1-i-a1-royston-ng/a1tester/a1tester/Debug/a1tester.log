@@ -1,0 +1,7 @@
+﻿  a1q2tester.cpp
+C:\Users\RoyChoy\Desktop\dsa555\a1-i-a1-royston-ng\a1q2tester.cpp(237,9): warning C4101: 'listSize': unreferenced local variable
+C:\Users\RoyChoy\Desktop\dsa555\a1-i-a1-royston-ng\a1q2tester.cpp(340,9): warning C4101: 'listSize': unreferenced local variable
+C:\Users\RoyChoy\Desktop\dsa555\a1-i-a1-royston-ng\a1q2tester.cpp(448,9): warning C4101: 'listSize': unreferenced local variable
+C:\Users\RoyChoy\Desktop\dsa555\a1-i-a1-royston-ng\a1q2tester.cpp(563,9): warning C4101: 'listSize': unreferenced local variable
+C:\Users\RoyChoy\Desktop\dsa555\a1-i-a1-royston-ng\a1q2tester.cpp(683,9): warning C4101: 'listSize': unreferenced local variable
+  a1tester.vcxproj -> C:\Users\RoyChoy\Desktop\dsa555\a1-i-a1-royston-ng\a1tester\Debug\a1tester.exe
